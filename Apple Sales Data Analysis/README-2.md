@@ -1,7 +1,7 @@
 
 # ![Apple Logo](https://github.com/najirh/Apple-Retail-Sales-SQL-Project---Analyzing-Millions-of-Sales-Rows/blob/main/Apple_Changsha_RetailTeamMembers_09012021_big.jpg.slideshow-xlarge_2x.jpg) Apple Retail Sales SQL Project - Analyzing Millions of Sales Rows
 
-**Get the guided project/datasets here**: [Get the Project Datasets](https://topmate.io/zero_analyst/1237072)
+**Get the guided project/datasets here**: [Get the Project Datasets](https://drive.google.com/drive/u/0/folders/1dEP4qVYdyBekcKNrQoOxsZZWjo4tju2r)
 
 ## Project Overview
 
