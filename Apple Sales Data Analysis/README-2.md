@@ -1,5 +1,5 @@
 
-Apple Retail Sales SQL Project - Analyzing Millions of Sales Rows
+# Apple Retail Sales SQL Project - Analyzing Millions of Sales Rows
 
 **Get the guided project/datasets here**: [Get the Project Datasets](https://drive.google.com/drive/u/0/folders/1dEP4qVYdyBekcKNrQoOxsZZWjo4tju2r)
 
